@@ -1,10 +1,7 @@
 package com.stiiv.myfootballteam.api.models;
 
-import org.hibernate.validator.constraints.NotBlank;
-
 import java.util.Random;
 import javax.persistence.*;
-import javax.persistence.criteria.CriteriaBuilder;
 import javax.validation.constraints.NotEmpty;
 import javax.validation.constraints.Size;
 
